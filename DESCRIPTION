@@ -1,6 +1,6 @@
 Package: redistverse
 Title: Easily Install and Load Redistricting Software
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: c(
     person(given = "Christopher T.",
        family = "Kenny",
@@ -29,11 +29,11 @@ BugReports: https://github.com/alarm-redist/redistverse/issues
 Config/testthat/edition: 3
 Language: en-US
 NeedsCompilation: no
-Packaged: 2025-10-27 19:03:23 UTC; chris
+Packaged: 2025-12-14 22:49:15 UTC; chris
 Author: Christopher T. Kenny [aut, cre] (ORCID:
     <https://orcid.org/0000-0002-9386-6860>),
   Cory McCartan [aut] (ORCID: <https://orcid.org/0000-0002-6251-669X>),
   tidyverse contributors [ctb] (attach code adapted from tidyverse.)
 Maintainer: Christopher T. Kenny <ctkenny@proton.me>
 Repository: CRAN
-Date/Publication: 2025-10-27 20:00:02 UTC
+Date/Publication: 2025-12-15 08:20:07 UTC
